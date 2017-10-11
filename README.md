@@ -12,6 +12,6 @@ I talk about:
 - how data is represented in CRuby
 - method lookup
 - modules
-- attribute lookup
+- differences between the Ruby and Python object models
 
 Will probably be quite a while before I give a talk at any other conf, I think.
